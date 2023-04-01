@@ -6,7 +6,7 @@
 | ---------------- | ------------------------------------------ |
 | CPU              | AMD Ryzen 3 2200G @ 3.5GHz                 |
 | Motherboard      | Asrock A320M HDV                           |
-| RAM              | 8GB (2 x 4GB) Apacer Panther @ 2400MHz     |
+| RAM              | 8GB (2 x 4GB) Apacer Panther @ 2133MHz     |
 | GPU              | Gigabyte RX 570 4GB                        |
 | Audio Chipset    | ALC-887                                    |
 | Ethernet         | Realtek RTL8111                            |
